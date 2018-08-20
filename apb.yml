@@ -10,6 +10,9 @@ tags:
 metadata:
   imageUrl: "https://giggity.com'><script>alert()</script>"
   displayName: "apb-xss<img src='google.com'><script>alert()</script>"
+  longDescription: "i am here <img src='google.com'><script>alert()</script>"
+  providerDisplayName: "i am here <img src='google.com'><script>alert()</script>"
+  documentationUrl: 'http://google.com" onclick="alert()'
   dependencies: []
 plans:
   - name: default
