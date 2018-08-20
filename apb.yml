@@ -5,7 +5,7 @@ bindable: False
 async: optional
 metadata:
   imageUrl: 'https://giggity.com"><script>alert()</script>'
-  displayName: apb-xss
+  displayName: 'apb-xss<img src="google.com"><script>alert()</script>'
   dependencies: []
 plans:
   - name: default
