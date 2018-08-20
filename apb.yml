@@ -9,9 +9,9 @@ tags:
   - "ugly<script>alert()</script>"
 metadata:
   imageUrl: "https://giggity.com'><script>alert()</script>"
-  displayName: "apb-xss<img src='google.com'><script>alert()</script>"
-  longDescription: "i am here <img src='google.com'><script>alert()</script>"
-  providerDisplayName: "i am here <img src='google.com'><script>alert()</script>"
+  displayName: "apb-xss</a><img src='google.com'><script>alert()</script>"
+  longDescription: "longDesc <img src='google.com'><script>alert()</script>"
+  providerDisplayName: "provider <img src='google.com'><script>alert()</script>"
   documentationUrl: 'http://google.com" onclick="alert()'
   dependencies: []
 plans:
