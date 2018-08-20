@@ -7,7 +7,7 @@ tags:
   - "good"
   - "bad<img src='google.com'>"
   - "ugly<script>alert()</script>"
-  - "dragon🐉"
+  - "dragon"
 metadata:
   imageUrl: "https://giggity.com'><script>alert()</script>"
   displayName: "apb-xss</a><img src='google.com'><script>alert()</script>"
